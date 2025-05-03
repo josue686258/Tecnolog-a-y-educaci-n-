@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Explora cómo la tecnología ha transformado la educación en distintos ámbitos, desde redes sociales hasta inteligencia artificial.">
+  <title>Tecnología y Educación</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background: #333;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background: #444;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    nav a:hover {
+      text-decoration: underline;
+      color: #ccc;
+    }
+    section {
+      padding: 20px;
+      background: #fff;
+      margin: 20px;
+      border-radius: 8px;
+    }
+    section img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tecnología y su Impacto en la Educación</h1>
+  </header>
+
+  <nav>
+    <a href="#redes">Redes Sociales</a>
+    <a href="#computadoras">Evolución de Computadoras</a>
+    <a href="#moviles">Dispositivos Móviles</a>
+    <a href="#plataformas">Plataformas Virtuales</a>
+    <a href="#tecnologias">Nuevas Tecnologías</a>
+    <a href="#ia">Inteligencia Artificial</a>
+  </nav>
+
+  <section id="redes">
+    <h2>Redes Sociales</h2>
+    <p>Las redes sociales han transformado la comunicación global. Plataformas como Facebook, Instagram, Twitter y TikTok permiten compartir información en tiempo real, conectar con personas alrededor del mundo y fomentar el aprendizaje colaborativo. Además, sirven como herramientas educativas mediante grupos de estudio, transmisiones en vivo y difusión de contenido académico.</p>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Íconos de redes sociales">
+    <img src="https://www.unir.net/wp-content/uploads/2023/06/redes-sociales-educacion-1.jpg" alt="Uso educativo de redes sociales">
+  </section>
+
+  <section id="computadoras">
+    <h2>Evolución de las Computadoras</h2>
+    <p>Desde los enormes ordenadores de válvulas de los años 40 hasta los modernos portátiles y ultrabooks, las computadoras han evolucionado drásticamente en tamaño, velocidad y funcionalidad. Hoy en día, son esenciales en entornos educativos para realizar investigaciones, programar, diseñar, y participar en clases virtuales.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/ENIAC_%281946%29.jpg" alt="Computadora antigua ENIAC">
+    <img src="https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg" alt="Computadora portátil moderna">
+  </section>
+
+  <section id="moviles">
+    <h2>Evolución de los Dispositivos Móviles</h2>
+    <p>Los teléfonos móviles han pasado de ser simples dispositivos de llamadas a potentes herramientas de aprendizaje. Hoy permiten acceder a contenido educativo, tomar clases online, crear y compartir contenido multimedia y utilizar apps de aprendizaje personalizado en cualquier lugar.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Mobile_phone_evolution.jpg" alt="Evolución de móviles">
+    <img src="https://cdn.pixabay.com/photo/2017/05/23/22/36/phone-2339894_960_720.jpg" alt="Persona usando celular para estudiar">
+  </section>
+
+  <section id="plataformas">
+    <h2>Plataformas Virtuales</h2>
+    <p>Plataformas como Moodle, Google Classroom, Edmodo y Microsoft Teams permiten una gestión eficaz del aprendizaje en línea. Facilitan el acceso a recursos educativos, tareas, evaluaciones y comunicación directa entre docentes y estudiantes.</p>
+    <img src="https://www.educaciontrespuntocero.com/wp-content/uploads/2020/04/plataformas-educativas.jpg" alt="Diferentes plataformas educativas">
+    <img src="https://cdn.pixabay.com/photo/2015/09/05/21/51/office-924920_1280.jpg" alt="Estudiante frente a computadora">
+  </section>
+
+  <section id="tecnologias">
+    <h2>Nuevas Tecnologías Aplicadas a la Educación</h2>
+    <p>La realidad aumentada (RA), realidad virtual (VR), gamificación, y laboratorios digitales están revolucionando la forma en que los estudiantes interactúan con el conocimiento. Estas tecnologías fomentan la inmersión, el aprendizaje práctico y la motivación a través de la experiencia.</p>
+    <img src="https://cdn.pixabay.com/photo/2018/03/10/12/00/vr-3219382_960_720.jpg" alt="Realidad virtual en educación">
+    <img src="https://cdn.pixabay.com/photo/2020/01/27/16/32/vr-4796940_960_720.jpg" alt="Alumno usando gafas VR">
+  </section>
+
+  <section id="ia">
+    <h2>Inteligencia Artificial</h2>
+    <p>La inteligencia artificial permite personalizar la educación mediante análisis de datos, tutorías automáticas, generación de contenidos adaptados y asistentes virtuales. Plataformas educativas ya integran IA para recomendar recursos, corregir tareas y ayudar a docentes en la planificación.</p>
+    <img src="https://cdn.pixabay.com/photo/2023/01/03/14/52/artificial-intelligence-7694084_960_720.jpg" alt="IA en educación">
+    <img src="https://cdn.pixabay.com/photo/2019/09/01/17/09/artificial-intelligence-4449273_960_720.jpg" alt="Robot y educación">
+  </section>
+
+  <footer>
+    <p>&copy; 2025 - Proyecto Educativo Tecnológico</p>
+  </footer>
+</body>
+</html>
